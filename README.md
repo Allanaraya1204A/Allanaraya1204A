@@ -5,28 +5,19 @@ I'm an Information Technologies Engineer with hands-on experience in operational
 ### 🔧 Top Skills
 
 **Languages & Technologies:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 **Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61dafb)  
-![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61dafb)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61dafb) ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61dafb)
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 
 **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
 **Tools & Architecture:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![gRPC](https://img.shields.io/badge/gRPC-20c997?logo=grpc&logoColor=white)  
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-20c997?logo=grpc&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white)
 
 ### 🚀 Highlighted Projects
 
